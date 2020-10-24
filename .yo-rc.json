@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.github.lufeimaggie"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "exp3",
+    "packageName": "com.github.lufeimaggie",
+    "packageFolder": "com/github/lufeimaggie",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzQ5NjRjMDAzYmRmMWYxYjVmM2ZmZmMwMGM0ZDQwNWU2YzBhNTAzZjQ3NDZjNTcwZGVjOTBmOTY2ZDkxZTM1YTFlMjY3NTBmYzdjZjcwOWVmY2U2M2Q3NGIxYzRkN2E5ZDVmNGRlNGQzNWQ4NGY4YjIzYzc2MjY4ODY3YmEyMDU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1603576654683,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
